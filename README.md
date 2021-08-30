@@ -9,10 +9,6 @@
 - 😄 Ele/dele
 - ⚡ Divulgo programações minhas :)
 
-<div>
-    <a href="https://beacons.ai/darkbeekill"/>
-    <img height="180cm" src="https://github-readme-stats.vercel.app/api?username={darkbeekill}&theme=blue-green"/>
-<div>
 
 
 <div>
